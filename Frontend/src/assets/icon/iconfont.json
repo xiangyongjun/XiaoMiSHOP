@@ -1,0 +1,114 @@
+{
+  "id": "",
+  "name": "",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "29947",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "69056",
+      "name": "service",
+      "font_class": "service",
+      "unicode": "e6ff",
+      "unicode_decimal": 59135
+    },
+    {
+      "icon_id": "330201",
+      "name": "my",
+      "font_class": "my",
+      "unicode": "e78b",
+      "unicode_decimal": 59275
+    },
+    {
+      "icon_id": "339514",
+      "name": "QQ",
+      "font_class": "icon",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    },
+    {
+      "icon_id": "831908",
+      "name": "zhifubao",
+      "font_class": "zhifubao",
+      "unicode": "e62c",
+      "unicode_decimal": 58924
+    },
+    {
+      "icon_id": "1049682",
+      "name": "wechat",
+      "font_class": "wechat",
+      "unicode": "e63b",
+      "unicode_decimal": 58939
+    },
+    {
+      "icon_id": "1493291",
+      "name": "cart_light",
+      "font_class": "cart_light",
+      "unicode": "e7d6",
+      "unicode_decimal": 59350
+    },
+    {
+      "icon_id": "1493696",
+      "name": "search_light",
+      "font_class": "search_light",
+      "unicode": "e7da",
+      "unicode_decimal": 59354
+    },
+    {
+      "icon_id": "1493700",
+      "name": "message_light",
+      "font_class": "message_light",
+      "unicode": "e7db",
+      "unicode_decimal": 59355
+    },
+    {
+      "icon_id": "1496045",
+      "name": "service_light",
+      "font_class": "service_light",
+      "unicode": "e7dd",
+      "unicode_decimal": 59357
+    },
+    {
+      "icon_id": "1718321",
+      "name": "返回",
+      "font_class": "fanhui",
+      "unicode": "f0343",
+      "unicode_decimal": 983875
+    },
+    {
+      "icon_id": "1718323",
+      "name": "更多",
+      "font_class": "gengduo",
+      "unicode": "f0344",
+      "unicode_decimal": 983876
+    },
+    {
+      "icon_id": "2768740",
+      "name": "settings_light",
+      "font_class": "settings_light",
+      "unicode": "e7f9",
+      "unicode_decimal": 59385
+    },
+    {
+      "icon_id": "3520078",
+      "name": "phone_light",
+      "font_class": "phone_light",
+      "unicode": "e7fe",
+      "unicode_decimal": 59390
+    },
+    {
+      "icon_id": "5634903",
+      "name": "weibo",
+      "font_class": "weibo",
+      "unicode": "f261",
+      "unicode_decimal": 62049
+    }
+  ]
+}
